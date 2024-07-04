@@ -1,1 +1,1 @@
-# tharunkumarmn03.SQL
+# Insurance Data Management & Analysis in SQL
